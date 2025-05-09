@@ -1,2 +1,2 @@
-# Verilog_Projects
+# verilog code
 Mealy sequence detector
