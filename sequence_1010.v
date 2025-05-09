@@ -45,7 +45,7 @@ module sequence_1010(
     S0: ns= d_in? S1:S0;
     S1: ns= d_in? S1:S2; 
     S2: ns= d_in? S3:S0;
-    S3: ns= d_in? S1:S0;
+    S3: ns= d_in? S1:S0; //non-overlappng
     endcase
     end
     assign seq_det= (ps==S3&& d_in==0)?1'b1:1'b0;
