@@ -1,23 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: NA
+// Engineer: Jitendra
 // 
 // Create Date: 09.05.2025 12:36:06
-// Design Name: 
+// Design Name: sequence detector
 // Module Name: sequence_1010
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module sequence_1010(
